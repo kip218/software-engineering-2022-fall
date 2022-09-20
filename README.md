@@ -1,5 +1,9 @@
-# demo-repo3
-An example flask rest API server, for SE Fall 2022.
+# Software Engineering Project Fall 2022
+## Roommate Finder App
+
+Project Team Members:
+Julia Westphal, Bianca Macias, Kang in Park, Chinedu Nnorom
+
 
 To build production, type `make prod`.
 
